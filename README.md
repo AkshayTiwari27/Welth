@@ -5,6 +5,9 @@
 ## **Overview**  
 **Welth** is an AI-powered financial management platform designed to help users take control of their finances through **smart budgeting, automated transaction tracking, and insightful financial analysis**. Built with **Next.js, PostgreSQL, and Supabase (with Prisma ORM),** Welth ensures a seamless and secure experience for managing personal and business finances.  
 
+## 🚀 Live Demo  
+Experience Welth in action: [Click Here](https://welth-pearl.vercel.app/)
+
 ## **Features**  
 
 ### **🚀 Modern Landing Page**  
