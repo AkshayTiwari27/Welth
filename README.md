@@ -63,7 +63,7 @@ Experience Welth in action: [Click Here](https://welth-pearl.vercel.app/)
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone <repository_url>
+git clone https://github.com/AkshayTiwari27/Welth.git
 cd welth
 ```
 
